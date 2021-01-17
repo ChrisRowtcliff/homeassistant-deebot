@@ -1,0 +1,12 @@
+{
+  "domain": "deebot",
+  "name": "deebot",
+  "documentation": "https://www.home-assistant.io/components/deebot",
+  "requirements": [
+    "ozmo==1.0"
+  ],
+  "dependencies": [],
+  "codeowners": [
+    "@OverloadUT"
+  ]
+}
